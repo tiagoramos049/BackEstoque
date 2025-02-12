@@ -1,0 +1,6 @@
+@BackEstoque_HostAddress = http://localhost:5070
+
+GET {{BackEstoque_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
