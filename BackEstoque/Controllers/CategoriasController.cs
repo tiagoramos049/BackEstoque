@@ -14,6 +14,7 @@ namespace BackEstoque.Controllers
         public CategoriasController(ICategoriaRepository categoriaRepository)
         {
             _categoriaRepository = categoriaRepository;
+
         }
 
 
