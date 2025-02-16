@@ -9,9 +9,6 @@ namespace BackEstoque.Repository
 
         public CategoriaRepository(Context context)
         {
-
-
-
             _context = context;
         }
 
