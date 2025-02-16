@@ -11,6 +11,7 @@ namespace BackEstoque.Repository
         {
 
 
+
             _context = context;
         }
 
